@@ -4,6 +4,7 @@
     <SalseView />
     <BottomView />
     <MapView />
+    <Demo />
   </el-card>
 </template>
 
@@ -12,6 +13,7 @@ import TopView from './components/TopView/TopView.vue'
 import SalseView from './components/SalseView/SalseView.vue'
 import BottomView from './components/BottomView/BottomView.vue'
 import MapView from './components/MapView/MapView.vue'
+import Demo from './components/DemoView/demo.vue'
 </script>
 
 <style lang="scss" scoped>
